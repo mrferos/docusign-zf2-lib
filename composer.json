@@ -1,0 +1,24 @@
+{
+    "name": "mrferos/docusign-lib-zf2",
+    "description": "ZF2 compatible DocuSign package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andres Galindo",
+            "email": "andres.galindo@flexshopper.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "MrfDocuSign\\" : "src/"
+        }
+    },
+    "require": {
+        "zendframework/zend-modulemanager"  :  "~2.2",
+        "zendframework/zend-servicemanager" :  "~2.2",
+        "mrferos/docusign-lib": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "~3.7"
+    }
+}
