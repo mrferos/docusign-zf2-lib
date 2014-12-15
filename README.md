@@ -8,3 +8,7 @@ cp vendor/docusign-lib-zf2/config/docusign.config.php.dist config/autoload/docus
 ```
 
 Then edit the configuration file with your settings
+
+# Documentation
+
+Please go here: https://github.com/mrferos/docusign-php-lib
