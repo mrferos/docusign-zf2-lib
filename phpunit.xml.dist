@@ -11,7 +11,7 @@
         backupGlobals="false"
         syntaxCheck="true"
         >
-    <testsuite name="BjyAuthorize tests">
+    <testsuite name="MrfDocuSign tests">
         <directory>./tests/MrfDocuSignTest</directory>
     </testsuite>
     <filter>
